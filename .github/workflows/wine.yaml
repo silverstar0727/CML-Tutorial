@@ -1,4 +1,4 @@
-name: model-wine-quality
+name: model-wine-quality1
 on: [push]
 jobs:
   run:
